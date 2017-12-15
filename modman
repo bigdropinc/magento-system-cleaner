@@ -1,0 +1,10 @@
+# modman module description
+# see https://github.com/colinmollenhour/modman/ for more info
+# author: Pavel Panchyshnyy
+
+#SMTP Pro
+app/etc/modules/Bigdrop_Cleaner.xml                                   app/etc/modules/Bigdrop_Cleaner.xml
+app/code/local/Bigdrop/Cleaner/                                       app/code/local/Bigdrop/Cleaner/
+app/design/adminhtml/default/default/template/bigdrop/cleaner.xml     app/design/adminhtml/default/default/template/bigdrop/cleaner
+app/design/adminhtml/default/default/template/bigdrop/cleaner         app/design/adminhtml/default/default/template/smtppro/
+app/locale/en_US/Bigdrop_Cleaner.csv                                  app/locale/en_US/Bigdrop_Cleaner.csv
