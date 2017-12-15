@@ -6,7 +6,7 @@ In order to begin cleaning, you need to configure Cron for your project. We also
 Extension also gives admin the opportunity to view files in the log and report directories via file manager tool.
 After the module installation, follow the path: _System -> Tools -> File Manager_. There you will be able to browse directories that were mentioned above.
 
-###Feature list
+### Feature list
 
 * Cleaning report files via cron.
 * Cleaning session files in the project directory or in the database via cron.

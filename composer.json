@@ -1,0 +1,17 @@
+{
+  "name": "paul-panchyshnyy/magento-system-cleaner",
+  "description": "Helper for cleaning and browsing Magento file system.",
+  "type": "magento-module",
+  "homepage": "https://github.com/paul-panchyshnyy/magento-system-cleaner",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Paul Panchyshnyy",
+      "email": "pavel.p@bigdropinc.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
